@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" layout:decorate="~{_layout}"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Employee Detail</title>
+</head>
+<body>
+<div class="container col-md-9 text-center mt-4" layout:fragment="content">
+    <h2 class="text text-primary mb-4">EMPLOYEE DETAIL</h2>
+    <div class="row bg-light">
+        <div class="col">
+            <img alt="#" height="280" src="#" th:alt="${employee.name}" th:src="@{${'/'+employee.imagePath}}"
+                 width="500">
+        </div>
+        <div class="col">
+            <h1 class="text-success" th:text="${employee.name}"/>
+            <h3 class="text-warning" th:text="'Company: ' + ${employee.company.getName()}"/>
+            <h5 th:text="'Age: ' + ${employee.age}"/>
+            <h5 th:text="'Email: ' + ${employee.email}"/>
+            <h5 th:text="'Phone: ' + ${employee.phone}"/>
+            <h5 th:text="'Address: ' + ${employee.address}"/>
+            <h3 class="text-danger" th:text="'Responsible for:'"
+                th:unless="((${employee.jobs}==null or ${employee.jobs.isEmpty()}))"/>
+            <h5 th:each="job : ${employee.jobs}">
+                <a class="text-decoration-none" th:href="@{'/job/'+${job.id}}"
+                   th:text="${jobStat.count} + '. ' + ${job.name}"/>
+            </h5>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

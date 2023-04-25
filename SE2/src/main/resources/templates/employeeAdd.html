@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" layout:decorate="~{_layout}"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Add Employee Form</title>
+</head>
+<body>
+<div class="container col-md-5 mt-4" layout:fragment="content">
+    <h2 class="text text-primary text-center">ADD EMPLOYEE</h2>
+    <form action="#" enctype="multipart/form-data" th:action="@{/employee/add}" th:method="POST"
+          th:object="${employee}">
+        <div class="mb-3">
+            <label class="form-label" for="name">Name</label>
+            <input class="form-control" id="name" placeholder="Enter employee's name" th:field="*{name}" type="text"
+                   value="">
+            <p th:errorclass="error" th:errors="*{name}" th:if="${#fields.hasErrors('name')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="age">Age</label>
+            <input class="form-control" id="age" placeholder="Enter employee's age" th:field="*{age}" type="number"
+                   value="">
+            <p th:errorclass="error" th:errors="*{age}" th:if="${#fields.hasErrors('age')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="email">Email</label>
+            <input class="form-control" id="email" placeholder="Enter employee's email" th:field="*{email}" type="text"
+                   value="">
+            <p th:errorclass="error" th:errors="*{email}" th:if="${#fields.hasErrors('email')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="phone">Phone number</label>
+            <input class="form-control" id="phone" placeholder="Enter employee's phone" th:field="*{phone}" type="text"
+                   value="">
+            <p th:errorclass="error" th:errors="*{phone}" th:if="${#fields.hasErrors('phone')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="address">Address</label>
+            <input class="form-control" id="address" placeholder="Enter employee's address" th:field="*{address}"
+                   type="text"
+                   value="">
+            <p th:errorclass="error" th:errors="*{address}" th:if="${#fields.hasErrors('address')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="image">Image</label>
+            <input accept="image/png, image/ipg, image/jpeg" class="form-control" id="image" name="file"
+                   placeholder="Input employee's image"
+                   size="50" type="file" value="">
+            <p th:errorclass="error" th:errors="*{image}" th:if="${#fields.hasErrors('image')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="company">Company</label>
+            <select id="company" name="company" th:field="*{company}">
+                <option th:each="company : ${companies}" th:text="${company.name}" th:value="${company.id}">Volvo
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="jobs">Jobs</label>
+            <div></div>
+            <div class="form-check form-check-inline" th:each="job : ${jobs}">
+                <input class="form-check-input" id="jobs" th:field="*{jobs}" th:text="${job.name}" th:value="${job.id}"
+                       type="checkbox">
+            </div>
+        </div>
+        <button class="btn btn-primary" type="submit" value="add">Add Employee</button>
+    </form>
+</div>
+
+</body>
+</html>

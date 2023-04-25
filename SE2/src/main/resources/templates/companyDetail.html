@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" layout:decorate="~{_layout}"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Company Detail</title>
+</head>
+<body>
+<div class="container col-md-8 text-center mt-4" layout:fragment="content">
+    <h2 class="text text-primary mb-4">COMPANY DETAIL</h2>
+    <div class="row bg-light">
+        <div class="col">
+            <img alt="#" height="200" src="#" th:alt="${company.name}" th:src="@{${'/'+company.imagePath}}" width="400">
+        </div>
+        <div class="col">
+            <h1 class="text-success" th:text="${company.name}"/>
+            <h3 class="text-warning" th:text="${company.address}"/>
+            <h2 class="text-dark">EMPLOYEE LIST</h2>
+            <h5 th:each="employee : ${employees}">
+                <a class="text-decoration-none text-info" th:href="@{'/employee/'+${employee.id}}"
+                   th:if="(${employee.company.getId()} == ${company.id})" th:text="'* ' + ${employee.name}"/>
+            </h5>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

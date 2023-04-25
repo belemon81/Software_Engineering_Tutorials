@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" layout:decorate="~{_layout}"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Update Job Form</title>
+</head>
+<body>
+<div class="container col-md-5 mt-4" layout:fragment="content">
+    <h2 class="text text-primary text-center">UPDATE JOB</h2>
+    <form action="#" enctype="multipart/form-data" th:action="@{'/job/update/'+${job.id} }" th:method="POST"
+          th:object="${job}">
+        <div class="mb-3">
+            <label class="form-label" for="name">Name</label>
+            <input class="form-control" id="name" placeholder="Enter job's name" th:field="*{name}"
+                   type="text" value="th:text='${job.name}'">
+            <p th:errorclass="error" th:errors="*{name}" th:if="${#fields.hasErrors('name')}"/>
+        </div>
+        <button class="btn btn-primary" type="submit" value="update">Update job</button>
+    </form>
+</div>
+
+</body>
+</html>

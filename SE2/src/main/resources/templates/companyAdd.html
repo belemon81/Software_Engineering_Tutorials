@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en"
+      layout:decorate="~{_layout}"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Add Company Form</title>
+</head>
+<body>
+<div class="container col-md-5 mt-4" layout:fragment="content">
+    <h2 class="text text-primary text-center">ADD COMPANY</h2>
+    <form action="#" enctype="multipart/form-data" th:action="@{/company/add}" th:method="POST" th:object="${company}">
+        <div class="mb-3">
+            <label class="form-label" for="name">Name</label>
+            <input class="form-control" id="name" placeholder="Enter company's name" th:field="*{name}" type="text"
+                   value="">
+            <p th:errorclass="error" th:errors="*{name}" th:if="${#fields.hasErrors('name')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="address">Address</label>
+            <input class="form-control" id="address" placeholder="Enter company's address" th:field="*{address}"
+                   type="text"
+                   value="">
+            <p th:errorclass="error" th:errors="*{address}" th:if="${#fields.hasErrors('address')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="image">Image</label>
+            <input accept="image/png, image/ipg, image/jpeg" class="form-control" id="image" name="file"
+                   placeholder="Input company's image"
+                   size="50" type="file" value="">
+            <p th:errorclass="error" th:errors="*{image}" th:if="${#fields.hasErrors('image')}"/>
+        </div>
+        <button class="btn btn-primary" type="submit" value="add">Add company</button>
+    </form>
+</div>
+
+</body>
+</html>

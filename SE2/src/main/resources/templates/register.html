@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" layout:decorate="~{_layout}"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Register</title>
+</head>
+<body>
+<div class="container col-md-5 mt-4 mb-10" layout:fragment="content">
+    <h2 class="text text-primary text-center">REGISTER</h2>
+    <form action="#" class="form-signin" th:action="@{/register}" th:method="POST" th:object="${user}">
+        <div class="mb-3">
+            <label class="form-label" for="username">Username</label>
+            <input autofocus class="form-control" id="username" name="username" placeholder="Username" required
+                   th:field="*{username}"
+                   type="text">
+            <p th:errorclass="error" th:errors="*{username}" th:if="${#fields.hasErrors('username')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="email">Email</label>
+            <input class="form-control" id="email" name="email" placeholder="Email" required th:field="*{email}"
+                   type="email">
+            <p th:errorclass="error" th:errors="*{email}" th:if="${#fields.hasErrors('email')}"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="password">Password</label>
+            <input class="form-control" id="password" name="password" placeholder="Password" required
+                   th:field="*{password}"
+                   type="password">
+            <p th:errorclass="error" th:errors="*{password}" th:if="${#fields.hasErrors('password')}"/>
+        </div>
+        <button class="btn btn-lg btn-primary btn-block text-center" type="submit">Register</button>
+    </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" layout:decorate="~{_layout}"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:sec="http://www.thymeleaf.org"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Employee Management System</title>
+</head>
+<body>
+<div class="text-center" layout:fragment="content">
+    <h3 class="text text-success">Logged user: <span sec:authentication="name"></span></h3>
+    <h5 class="text text-info">Roles: <span sec:authentication="principal.authorities"></span></h5>
+    <img alt="home" class="img-fluid img-thumbnail" height="100%" src="#" th:src="@{/images/fit_home.jpg}" width="100%">
+</div>
+</body>
+</html>
