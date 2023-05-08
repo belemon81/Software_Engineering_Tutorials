@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b20037e4-3421-4fda-a935-e3e443fc3020" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/src/main/java/Tut5/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/src/main/java/Tut5/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/src/main/java/Tut5/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/src/main/java/Tut5/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/src/main/java/Tut5/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/src/main/java/Tut5/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/src/main/java/Tut5/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/src/main/java/Tut5/repository/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/src/test/java/Tut5/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/src/test/java/Tut5/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.5/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SE2.5/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/components/StudentAdd.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/components/StudentAdd.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/components/StudentList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/components/StudentList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2.6/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/se2.6/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut1/MySQLConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut1/MySQLConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut1/SQLscript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut1/SQLscript.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut1/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut1/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex1/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex1/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex1/PersonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex1/PersonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex2/BookDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex2/BookDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex2/GoldenEditionBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex2/GoldenEditionBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex3/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex3/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex3/HumanDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex3/HumanDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex3/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex3/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut10/ex3/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/AppRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/AppRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/Se2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/Se2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/CompanyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/CompanyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/HelperController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/HelperController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/JobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/JobController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/CompanyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/CompanyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/JobRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/JobRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/springsecurity/ISecurityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/springsecurity/ISecurityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/springsecurity/MvcConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/springsecurity/MvcConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/springsecurity/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/springsecurity/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/springsecurity/WebSecurityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut2_3_4/springsecurity/WebSecurityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut7/BagTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut7/BagTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/AbstractFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/AbstractFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/FactoryProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/RoundedRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/RoundedRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/RoundedShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/RoundedShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/RoundedSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/RoundedSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/abstract_factory/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/builder/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/builder/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/builder/StudentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/builder/StudentInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/Admission.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/Admission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/CivilService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/CivilService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/CourseInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/CourseInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/Health.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/factory/Health.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/ShapeCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/ShapeCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/ShapeDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/ShapeDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/prototype/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/singleton/FIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/singleton/FIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut8/singleton/FIT_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut8/singleton/FIT_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/Description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/Description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/adapter/SquarePegAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/adapter/SquarePegAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/round/RoundHole.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/round/RoundHole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/round/RoundPeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/round/RoundPeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/square/SquarePeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/adapter/square/SquarePeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/Description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/Description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/devices/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/devices/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/devices/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/devices/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/devices/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/devices/Tv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/remotes/AdvancedRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/remotes/AdvancedRemote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/remotes/BasicRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/remotes/BasicRemote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/remotes/Remote.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/bridge/remotes/Remote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/Description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/Description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/middleware/Middleware.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/middleware/Middleware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/middleware/RoleCheckMiddleware.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/middleware/RoleCheckMiddleware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/middleware/ThrottlingMiddleware.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/middleware/ThrottlingMiddleware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/middleware/UserExistsMiddleware.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/middleware/UserExistsMiddleware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/chain_of_responsibility/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/Description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/Description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/strategies/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/strategies/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/strategies/PayByCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/strategies/PayByCreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/strategies/PayByPayPal.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/strategies/PayByPayPal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/strategies/PayStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/java/Tut9/strategy/strategies/PayStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/_layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/companyAdd.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/companyAdd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/companyDetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/companyDetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/companyList.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/companyList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/companyUpdate.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/companyUpdate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/employeeAdd.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/employeeAdd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/employeeDetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/employeeDetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/employeeList.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/employeeList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/employeeUpdate.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/employeeUpdate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/jobAdd.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/jobAdd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/jobDetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/jobDetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/jobList.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/jobList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/jobUpdate.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/jobUpdate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE2/src/test/java/se2/tut/Se2ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE2/src/test/java/se2/tut/Se2ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2jOd9xZxb6xP7057DUeekVxndAp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/QuynhTrangQN/Idea Projects/Software_Engineering_Tutorials/se2.6",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b20037e4-3421-4fda-a935-e3e443fc3020" name="Changes" comment="" />
+      <created>1721261910688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721261910688</updated>
+      <workItem from="1721261913033" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

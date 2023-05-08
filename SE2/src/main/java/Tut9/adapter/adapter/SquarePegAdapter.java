@@ -20,7 +20,7 @@ public class SquarePegAdapter extends RoundPeg {
     public double getRadius() {
         double result = 0;
         // Calculate a minimum circle radius, which can fit this peg.
-        //TODO: result = Square Root [(getWidth() of SquarePeg/2)^2) * 2)]
+        //TODO: result = Square Root [(getWidth() of SquarePeg/2)^2) * 2)] -> x^2/2
         result = Math.sqrt(Math.pow((peg.getWidth() / 2), 2) * 2);
         return result;
     }

@@ -6,7 +6,7 @@ import Tut9.adapter.round.RoundPeg;
 import Tut9.adapter.square.SquarePeg;
 
 /**
- * Somewhere in client code...
+ * Somewhere in client code... ^_^
  */
 public class Demo {
     public static void main(String[] args) {
